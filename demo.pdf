@@ -1,0 +1,38 @@
+Title: Real Estate Listing System
+
+Author: Karpaga Priyanka K (Kannamma)
+Date: July 2025
+
+Overview:
+This project is a full-stack Real Estate Listing System built using Spring Boot (Backend), React (Frontend), and MySQL (Database). It allows users to view, post, and manage real estate listings with advanced features like filtering, sorting, and JWT-based security.
+
+Key Features:
+- User Registration and Authentication (JWT-based)
+- Create, Read, Update, Delete (CRUD) operations for property listings
+- Admin panel for approving listings
+- Image upload support for each property
+- Search by location, price, and property type
+- RESTful API documentation with Swagger
+
+Technologies Used:
+- Java, Spring Boot, Spring Security
+- React.js, Axios, Bootstrap
+- MySQL, Hibernate/JPA
+- Git, GitHub, Postman
+
+Testing & Performance:
+- JUnit test cases written for all controllers and services
+- Supports up to 1000 concurrent users
+- Response time under 2 seconds
+- Complies with GDPR and HIPAA data regulations
+
+Future Enhancements:
+- Map integration using Google Maps API
+- Chat feature between buyer and seller
+- Mobile app version (React Native)
+
+Contact:
+GitHub: https://github.com/your-username/your-repo
+Email: your-email@example.com
+
+Thank you!
